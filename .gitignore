@@ -1,0 +1,23 @@
+# ===== ROS 2 / colcon =====
+build/
+install/
+log/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ===== Gazebo / Ignition =====
+.cache/
+.ignition/
+.gazebo/
+
+# ===== Editors =====
+.vscode/
+.idea/
+
+# ===== OS junk =====
+.DS_Store
+Thumbs.db
